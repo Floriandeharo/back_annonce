@@ -1,0 +1,34 @@
+# Java compiled classes
+*.class
+*.war
+*.jar
+
+# Logs
+logs/
+*.log
+
+# Maven / Gradle
+target/
+build/
+*.iml
+*.ipr
+*.iws
+
+# IDEs
+.idea/
+*.sw?
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Properties
+application.properties
+application.yml
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
